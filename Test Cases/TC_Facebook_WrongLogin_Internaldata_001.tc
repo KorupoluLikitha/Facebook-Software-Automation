@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Facebook_WrongLogin_Internaldata_001</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3a7c654e-34cf-4677-abf8-a758f81b2fdb</testCaseGuid>
+</TestCaseEntity>
